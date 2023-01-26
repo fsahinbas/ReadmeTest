@@ -1,4 +1,6 @@
-# Layout.cshtml
+# .NET Core MVC Web App
+Aşağıda web uygulamamızın kullandığı layout sayfasının kod bloğu yer almaktadır. 
+## Layout.cshtml
 ````
 <!DOCTYPE html>
 <html lang="en">
